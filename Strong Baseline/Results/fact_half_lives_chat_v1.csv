@@ -1,0 +1,17 @@
+branch,fact_type,half_life
+A,causal,T4
+A,event,T8
+A,named_entity,T1
+A,numerical,T5
+A,relation,T1
+A,spatial,T1
+A,temporal,T7
+A,verbal,T2
+B,causal,>T10
+B,event,>T10
+B,named_entity,T1
+B,numerical,>T10
+B,relation,T1
+B,spatial,T1
+B,temporal,T3
+B,verbal,T2

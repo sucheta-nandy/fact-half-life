@@ -17,7 +17,7 @@
         "source_span": "A boy has been cleared of murdering a 17-year-old he stabbed in the heart with a flick knife.",
         "type": "event",
         "key_value": "cleared of murder",
-        "negation": false,
+        "negation": false,  
         "uncertainty": false,
         "quotation": false,
         "attribution": null,
