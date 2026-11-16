@@ -1,0 +1,19 @@
+# Python environments
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+
+# API credentials
+.env
+.env.*
+!.env.example
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
