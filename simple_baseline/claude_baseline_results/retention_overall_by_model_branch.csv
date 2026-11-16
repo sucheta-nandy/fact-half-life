@@ -1,0 +1,3 @@
+model,branch,total_original_facts,present_facts,mutated_facts,absent_facts,retention_pct
+claude-sonnet-5-5,A,273,65,5,203,23.81
+claude-sonnet-5-5,B,273,214,4,55,78.39

@@ -1,0 +1,9 @@
+model,category,branch_A_pct,branch_B_pct,B_minus_A_percentage_points
+claude-sonnet-5-5,causal,20.0,55.0,35.0
+claude-sonnet-5-5,event,25.53,85.11,59.58
+claude-sonnet-5-5,named_entity,21.05,76.32,55.27
+claude-sonnet-5-5,numerical,31.15,75.41,44.26
+claude-sonnet-5-5,relation,36.36,81.82,45.46
+claude-sonnet-5-5,spatial,12.5,62.5,50.0
+claude-sonnet-5-5,temporal,25.71,85.71,60.0
+claude-sonnet-5-5,verbal,15.56,86.67,71.11

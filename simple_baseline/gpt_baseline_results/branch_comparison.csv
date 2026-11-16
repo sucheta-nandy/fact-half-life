@@ -1,0 +1,9 @@
+model,category,branch_A_pct,branch_B_pct,B_minus_A_percentage_points
+gpt-4.1-mini,causal,25.0,65.0,40.0
+gpt-4.1-mini,event,17.02,63.83,46.81
+gpt-4.1-mini,named_entity,13.16,42.11,28.95
+gpt-4.1-mini,numerical,22.95,54.1,31.15
+gpt-4.1-mini,relation,18.18,45.45,27.27
+gpt-4.1-mini,spatial,12.5,62.5,50.0
+gpt-4.1-mini,temporal,17.14,42.86,25.72
+gpt-4.1-mini,verbal,4.44,42.22,37.78
