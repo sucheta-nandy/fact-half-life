@@ -1,0 +1,17 @@
+model,branch,category,total_original_facts,present_facts,mutated_facts,absent_facts,retention_pct
+meta-llama/Llama-3.1-8B-Instruct,A,causal,20,3,1,16,15.0
+meta-llama/Llama-3.1-8B-Instruct,A,event,47,8,2,37,17.02
+meta-llama/Llama-3.1-8B-Instruct,A,named_entity,38,2,0,36,5.26
+meta-llama/Llama-3.1-8B-Instruct,A,numerical,61,6,4,51,9.84
+meta-llama/Llama-3.1-8B-Instruct,A,relation,11,3,1,7,27.27
+meta-llama/Llama-3.1-8B-Instruct,A,spatial,16,0,0,16,0.0
+meta-llama/Llama-3.1-8B-Instruct,A,temporal,35,4,0,31,11.43
+meta-llama/Llama-3.1-8B-Instruct,A,verbal,45,3,0,42,6.67
+meta-llama/Llama-3.1-8B-Instruct,B,causal,20,4,3,13,20.0
+meta-llama/Llama-3.1-8B-Instruct,B,event,47,17,5,25,36.17
+meta-llama/Llama-3.1-8B-Instruct,B,named_entity,38,12,1,25,31.58
+meta-llama/Llama-3.1-8B-Instruct,B,numerical,61,17,5,39,27.87
+meta-llama/Llama-3.1-8B-Instruct,B,relation,11,5,0,6,45.45
+meta-llama/Llama-3.1-8B-Instruct,B,spatial,16,3,1,12,18.75
+meta-llama/Llama-3.1-8B-Instruct,B,temporal,35,13,3,19,37.14
+meta-llama/Llama-3.1-8B-Instruct,B,verbal,45,8,3,34,17.78

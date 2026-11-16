@@ -1,0 +1,9 @@
+model,category,branch_A_pct,branch_B_pct,B_minus_A_percentage_points
+meta-llama/Llama-3.1-8B-Instruct,causal,15.0,20.0,5.0
+meta-llama/Llama-3.1-8B-Instruct,event,17.02,36.17,19.15
+meta-llama/Llama-3.1-8B-Instruct,named_entity,5.26,31.58,26.32
+meta-llama/Llama-3.1-8B-Instruct,numerical,9.84,27.87,18.03
+meta-llama/Llama-3.1-8B-Instruct,relation,27.27,45.45,18.18
+meta-llama/Llama-3.1-8B-Instruct,spatial,0.0,18.75,18.75
+meta-llama/Llama-3.1-8B-Instruct,temporal,11.43,37.14,25.71
+meta-llama/Llama-3.1-8B-Instruct,verbal,6.67,17.78,11.11

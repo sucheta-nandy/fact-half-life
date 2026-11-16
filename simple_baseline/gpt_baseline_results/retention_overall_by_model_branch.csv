@@ -1,0 +1,3 @@
+model,branch,total_original_facts,present_facts,mutated_facts,absent_facts,retention_pct
+gpt-4.1-mini,A,273,44,14,215,16.12
+gpt-4.1-mini,B,273,141,28,104,51.65
